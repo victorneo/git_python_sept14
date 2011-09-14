@@ -33,11 +33,11 @@
     <div id='container'>
         <div id='name'>
             <span class='emphasis'>Sylvia Ng</span>
-            <p>Hello!</p>
+            <p>Hello World!</p>
         </div>
         Quote:
         <div id='quote'>
-            <p>I code while I'm drunk.</p>
+            <p>Alcohol makes me program like mad.</p>
         </div>
     </div>
 </body>
