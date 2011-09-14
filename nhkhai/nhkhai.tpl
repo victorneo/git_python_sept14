@@ -32,12 +32,12 @@
 <body>
     <div id='container'>
         <div id='name'>
-            <span class='emphasis'>Victor Neo</span>
+            <span class='emphasis'>Ng Heng Khai</span>
             <p>student by the day, <span class='emphasis'>bob</span> by the night.</p>
         </div>
         Quote:
         <div id='quote'>
-            <p>I code while I'm drunk.</p>
+            <p>Hi. :)</p>
         </div>
     </div>
 </body>
