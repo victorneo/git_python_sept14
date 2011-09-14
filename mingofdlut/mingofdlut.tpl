@@ -1,44 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<title>Hello</title>
-<style type="text/css">
-    body {
-        background-color: #eee;
-        font-family: Georgia, Times, Serif;
-    }
-
-    #container{
-        width: 600px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    #name{
-        font-size: 2em;
-    }
-    #quote{
-        -moz-border-radius: 10px;
-        border-radius: 10px;
-        font-size: 4em;
-        background-color: #ddd;
-        padding: 10px;
-    }
-
-    span.emphasis{
-        font-style: italic;
-    }
-</style>
-
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>Hello</title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1038.36">
+  <style type="text/css">
+    body {background-color: #eeeeee}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 24.0px Georgia}
+    p.p2 {margin: 0.0px 0.0px 24.0px 0.0px; font: 24.0px Georgia}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Georgia}
+    p.p4 {margin: 0.0px 0.0px 48.0px 0.0px; font: 48.0px Georgia; background-color: #dddddd}
+  </style>
 </head>
 <body>
-    <div id='container'>
-        <div id='name'>
-            <span class='emphasis'>Mingming Wang</span>
-            <p>an ios developer in the day, an android developer<span class='emphasis'>bob</span> by the night.</p>
-        </div>
-        Quote:
-        <div id='quote'>
-            <p>My hidden identity is a registered psychological therapist...</p>
-        </div>
-    </div>
+<p class="p1"><i>Mingming Wang</i></p>
+<p class="p2">an ios developer in the day, an android developer<i>bob</i> by the night.</p>
+<p class="p3">Quote:</p>
+<p class="p4">My hidden identity is a registered psychological therapist….</p>
 </body>
 </html>
