@@ -3,7 +3,7 @@
 <title>Hello</title>
 <style type="text/css">
     body {
-        background-color: #eee;
+        background-color: #aaa;
         font-family: Georgia, Times, Serif;
     }
 
@@ -37,7 +37,7 @@
         </div>
         Quote:
         <div id='quote'>
-            <p>I code while I'm drunk.</p>
+            <p>I code while I'm an owlllllll.</p>
         </div>
     </div>
 </body>
